@@ -12,7 +12,7 @@ Here are some of my works:
     ![Nav](https://github.com/dipti-git/dipti-git/assets/58132351/50c7a8f4-8de0-4398-b379-967945e999e7)
     ![Home](https://github.com/dipti-git/dipti-git/assets/58132351/f0274839-e92f-4cc5-bbe7-68d5ac3cca1b)
 
-  - ### [Browser Extension Manager: A Deep Dive into Design, Functionality, and User-Centric Features] (https://github.com/dipti-git/browser-extension-manager)
+  - ### [Browser Extension Manager: A Deep Dive into Design, Functionality, and User-Centric Features](https://github.com/dipti-git/browser-extension-manager)
     
     ![browser-extension-manager](https://github.com/dipti-git/dipti-git/assets/58132351/5c1638cd-76d4-4cea-aabf-e80e3bb29fee)
 
