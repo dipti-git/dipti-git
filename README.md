@@ -1,6 +1,6 @@
 ### Hi there, I am Dipti! 👋 
 
-<h3 align="center">I am a Full Stack Javascript Developer with an insatiable passion for the realm of Software Development.</h3>
+<h3>I am a Full Stack Javascript Developer with an insatiable passion for the realm of Software Development.</h3>
 
 🌐 I design and build user-friendly front ends using HTML, CSS, and JavaScript. It's all about making things look great and work smoothly.
 
