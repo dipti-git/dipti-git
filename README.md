@@ -1,4 +1,4 @@
-### Hi there!👋  I am Dipti, currently specializing in Full Stack Development.
+### Hi there!👋  I am Dipti, currently specializing in Full Stack Javascript Development.
  
  My toolkit includes technologies like React, Angular, Express.js, and MongoDB, which I seamlessly integrate to build robust applications. On the backend, I leverage Node.js to ensure efficient data handling and processes. AWS is my go-to cloud platform for deploying and scaling applications. 
  
